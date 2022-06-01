@@ -8,7 +8,10 @@ footer {
 }
 
 .bg-img {
-  background: url('/assets/images/premium_dancer.png') no-repeat right;
+  background-position: right;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: url('/assets/images/premium_dancer.png');
 }
 
 .planos {
