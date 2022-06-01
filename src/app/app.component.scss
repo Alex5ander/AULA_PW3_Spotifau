@@ -6,3 +6,19 @@ footer {
   background-color: #000;
   color: #ccc;
 }
+
+.bg-img {
+  background-position: right;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: url('/assets/images/premium_dancer.png');
+}
+
+.planos {
+  background-color: #f8f9fb;
+}
+
+.btn-start {
+  background-color: #27a844;
+  color: #fff;
+}
